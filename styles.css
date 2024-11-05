@@ -1,8 +1,8 @@
 body {
-    background-color: burlywood;
-    color: green
+    background-color: rgb(176, 145, 103);
+    color: rgb(97, 210, 97)
 }
 
 header {
-    background-color: greenyellow;
+    background-color: rgb(130, 168, 74);
 }
