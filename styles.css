@@ -5,4 +5,24 @@ body {
 
 header {
     background-color: rgb(130, 168, 74);
+    text-align: center;
+    font-size: 32px;
+    padding: 10px;
+    border-bottom: solid 2px rgb(42, 98, 80);
 }
+
+.primeirovideo {
+    background-color: rgb(156, 103, 33);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamadatexto {
+    margin-left: 20px;
+    margin-left: 10px;
+    text-align: justify;
+}
+
+h1
