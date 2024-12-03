@@ -25,4 +25,17 @@ header {
     text-align: justify;
 }
 
-h1
+h1{
+font-size: 40px;
+margin-left: 150px;
+
+}
+p{
+font-size: 20px;
+
+}
+.videos{
+display: flex;
+overflow-x: auto;
+gap:10px
+}
